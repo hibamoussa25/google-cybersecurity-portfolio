@@ -17,6 +17,12 @@ In this portfolio, you can see the following skills demonstrated:
 - Python Scripting & Log Parsing
 - Professional Writing
 ---
+# Contents
+In each folder, the following contents can be found: 
+- A Project Summary
+- Tools & Skills Demonstrated
+- Work Samples (documents, code, reports, screenshots)
+---
 # Contact
 **Hiba Moussa**
 
