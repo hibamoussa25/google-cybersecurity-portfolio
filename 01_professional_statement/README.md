@@ -21,6 +21,6 @@ From this activity, I demonstrated the following skills:
 
 ---
 # Files 
-- README.md
 - Professional_Statment.pdf
+- README.md
 
