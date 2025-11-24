@@ -17,8 +17,16 @@ In this portfolio, you can see the following skills demonstrated:
 - Python Scripting & Log Parsing
 - Professional Writing
 ---
+# Projects
+- [Professional Statement](./01_professional_statement)
+
+
+
+
+
+---
 # Contents
-In each folder, the following contents can be found: 
+In each project folder, the following contents can be found: 
 - A Project Summary
 - Tools & Skills Demonstrated
 - Work Samples (documents, code, reports, screenshots)
