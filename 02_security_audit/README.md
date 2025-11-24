@@ -22,7 +22,7 @@ From this activity, I demonstrated the following skills:
 - Problem-Solving
 ---
 # Files
-- README.md
-- Security_Audit.pdf
-- Risk_Assessment.pdf
 - Control_Categories.pdf
+- README.md
+- Risk_Assessment.pdf
+- Security_Audit.pdf
