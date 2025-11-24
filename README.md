@@ -20,4 +20,4 @@ In this portfolio, you can see the following skills demonstrated:
 # Contact
 **Hiba Moussa**
 
-[Linkedin](www.linkedin.com/in/moussahiba) | Github | hibamoussa005@gmail.com
+[Linkedin](https://www.linkedin.com/in/moussahiba) | Github | hibamoussa005@gmail.com
