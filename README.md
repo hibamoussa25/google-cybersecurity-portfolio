@@ -30,9 +30,10 @@ In this portfolio, you can see the following skills demonstrated:
 ---
 # Contents
 In each project folder, the following contents can be found: 
-- A Project Summary
-- Tools & Skills Demonstrated
-- Work Samples (documents, code, reports, screenshots)
+- Project Overview
+- Project Objective
+- Skills Demonstrated
+- Files/Work Samples (documents, code, reports, screenshots)
 ---
 # Contact
 Created by **Hiba Moussa**
