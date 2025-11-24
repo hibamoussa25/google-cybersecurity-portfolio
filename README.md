@@ -23,7 +23,7 @@ In this portfolio, you can see the following skills demonstrated:
 - [Analyzing Network Structure & Security](./03_network_analysis)
 - [Using Linux Commands to Manage File Permissions](./04_linux_file_permissions)
 - [Applying filters to SQL Queries](./05_sql_querying)
-- [Identifying Vulnerabilities for a Small Business](.06_identifying_vulnerabilities)
+- [Identifying Vulnerabilities for a Small Business](./06_identifying_vulnerabilities)
 - [Documenting Incidents with an Incident Handler's Journal](./07_documenting_incidents)
 - [Importing & Parsing a Text File in a Security-Related Scenario](./08_parsing_text_file)
 - [Creating or Revising a Resume](./09_resume)
