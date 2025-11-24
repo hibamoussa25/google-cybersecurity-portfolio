@@ -33,7 +33,7 @@ In each project folder, the following contents can be found:
 - Project Overview
 - Project Objective
 - Skills Demonstrated
-- Files/Work Samples (documents, code, reports, screenshots)
+- Work Samples (documents, code, reports, screenshots)
 ---
 # Contact
 Created by **Hiba Moussa**
