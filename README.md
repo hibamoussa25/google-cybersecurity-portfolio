@@ -1,7 +1,7 @@
 # Google Cybersecurity Portfolio
 ---
 # About
-This repository showcases some of my hands-on cybersecurity project experiences that I completed while obtaining the Google Cybersecurity Professional Certificate. Throughout this experience, I applied my skills in cybersecurity labs involving content that can be directly used in the industry. 
+This repository showcases some of my hands-on cybersecurity project experiences that I completed while obtaining the **Google Cybersecurity Professional Certificate**. Throughout this experience, I applied my skills in cybersecurity labs involving content that can be directly used in the industry. 
 
 ---
 # Skills 
@@ -24,6 +24,6 @@ In each folder, the following contents can be found:
 - Work Samples (documents, code, reports, screenshots)
 ---
 # Contact
-**Hiba Moussa**
+Created by **Hiba Moussa**
 
 [Linkedin](https://www.linkedin.com/in/moussahiba) | Github | hibamoussa005@gmail.com
