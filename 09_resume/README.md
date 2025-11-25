@@ -19,4 +19,4 @@ In this activity, I gained the following skills:
 ---
 # Files
 - README.md
-- RESUME_HIBA.pdf
+- Resume_hiba.pdf
