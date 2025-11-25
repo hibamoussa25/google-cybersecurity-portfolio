@@ -7,7 +7,7 @@ The attack caused a two-hour network outage, impacting internal resources and in
 
 I created an incident report by analyzing the network incident using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and the knowledge I gained throughout the course.
 
-**Review scenario.pdf for more information on the incident.
+**Review **scenario.pdf** for more information on the incident.
 
 ---
 # Objective
@@ -19,8 +19,14 @@ Review the following scenario to:
 ---
 # Skills
 From this activity, I demonstrated the following skills:
+- Incident Analysis
+- Application of NIST CSF
+- Documentation
+- Critical Thinking
+- Problem-Solving
 
 ---
 # Files
-- README.md
 - Incident_Report.pdf
+- README.md
+- Scenario.pdf
