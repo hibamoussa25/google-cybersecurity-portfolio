@@ -4,7 +4,7 @@
 Here you can find my polished, professional resume updated and tailored for cybersecurity and information technology roles. 
 
 ---
-# Objective 
+# Objectives 
 - Review and update resume to reflect experiences completed throughout the course
 - Tailor resume content for cybersecurity roles
 - Include GitHub link on resume
