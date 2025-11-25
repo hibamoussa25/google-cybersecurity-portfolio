@@ -10,7 +10,7 @@ I created an incident report by analyzing the network incident using the Nationa
 **Review **scenario.pdf** for more information on the incident.
 
 ---
-# Objective
+# Objectives
 Review the following scenario to:
 - Analyze the cybersecurity incident
 - Apply NIST CSF
