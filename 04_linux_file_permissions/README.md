@@ -4,7 +4,7 @@
 This project demonstrates my ability to analyze and manage file system permissions in a Linux environment. As a security professional on a research team, I am tasked with updating file permissions for certain files within the project's directory. My responsibility is to help keep the system secure by examining existing permissions on the file system and ensuring users on this team are authorized with the appropriate permissions. 
 
 ---
-# Objective
+# Objectives
 Utilize Linux commands to: 
 - Check file & directory permissions
 - Understand Permission Strings 
