@@ -36,4 +36,4 @@ In each project folder, the following contents can be found:
 # Contact
 Created by **Hiba Moussa**
 
-[Linkedin](https://www.linkedin.com/in/moussahiba) | github.com/hibamoussa25 | hibamoussa005@gmail.com
+[Linkedin](https://www.linkedin.com/in/moussahiba) | [GitHub](https://github.com/hibamoussa25)| hibamoussa005@gmail.com
