@@ -18,7 +18,6 @@ In this portfolio, you can see the following skills demonstrated:
 - Professional Writing
 ---
 # Projects
-- [Drafting a Professional Statement](./01_professional_statement)
 - [Conducting a Security Audit](./02_security_audit)
 - [Analyzing Network Structure & Security](./03_network_analysis)
 - [Using Linux Commands to Manage File Permissions](./04_linux_file_permissions)
