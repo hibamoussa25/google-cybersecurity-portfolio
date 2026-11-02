@@ -7,7 +7,6 @@ This repository showcases some of my hands-on cybersecurity project experiences 
 # Skills 
 In this portfolio, you can see the following skills demonstrated: 
 
-- Personal Branding 
 - Security Auditing
 - Network Analysis
 - Linux Permissions
@@ -37,4 +36,4 @@ In each project folder, the following contents can be found:
 # Contact
 Created by **Hiba Moussa**
 
-[Linkedin](https://www.linkedin.com/in/moussahiba) | Github | hibamoussa005@gmail.com
+[Linkedin](https://www.linkedin.com/in/moussahiba) | github.com/hibamoussa25 | hibamoussa005@gmail.com
